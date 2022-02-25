@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to all such who are making a profession of God, Christ, and the Scriptures and yet are in their blind zeal, persecuting of those who are in the life of what they in words profess. By Christian Web.</title>
+            <author>Web, Christian, 1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65345</idno>
+            <idno type="STC">Wing W1196</idno>
+            <idno type="STC">ESTC R221967</idno>
+            <idno type="EEBO-CITATION">99833209</idno>
+            <idno type="PROQUEST">99833209</idno>
+            <idno type="VID">37684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2161:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to all such who are making a profession of God, Christ, and the Scriptures and yet are in their blind zeal, persecuting of those who are in the life of what they in words profess. By Christian Web.</title>
+                  <author>Web, Christian, 1678.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37684:1" rendition="simple:additions"/>
+            <head>A WARNIING To all ſuch who are making a PROFESSION OF God, Chriſt, AND THE SCRIPTURES, And yet are in their blind zeal, Perſecu<g ref="char:EOLhyphen"/>ting of thoſe who are in the Life of what they in words Profeſs.</head>
+            <p>By <hi>Chriſtian Web.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:37684:2"/>
+            <p>I Being moved of the Lord, ſeeing the lark of ſo thick over the face of the whole Earth, to declare unto you who having a Form of godlineſs and denying the Power, who live in the ſhadows and have not the Subſtance, that you come to that which ends all ſhadows, that is Chriſt Jeſus the light which do ſhine through the darkneſs, now you who are eſtranged from the light in your own particulars, you have loſt the ſenſe and leading of Gods Spirit which would bring you again into the right way if you would turn to that which checks for ſin and evil, that is the light Chriſt Jeſus, but you who are making clean of the out-ſide as the <hi>Phariſees</hi> did, and inwardly full of all uncleanneſs, being ignorant of Gods Righteouſneſs, you go about to eſtabliſh your own righteouſ<g ref="char:EOLhyphen"/>neſſe, therefore are you warned of the Lord that you turn to the light in your own particulars, that as you come to be obe<g ref="char:EOLhyphen"/>dient unto it in your ſelves you will feel it to expel the dark<g ref="char:EOLhyphen"/>neſs; for verily you are groping in the dark night of Apoſtacy, and are gone from the true guide in your own ſelves, being out of the knowledge of God you are ſeeking the living among the dead, for you are ſeeking the Lord in your dead perform<g ref="char:EOLhyphen"/>ances, and ſo you are feeding upon the Swines food, now Chriſt Jeſus doth feed his Children with the hidden Manna which is hidden from the wiſe and prudent of this world, and are revealed unto the heirs of Gods Kingdom: Oh! you Pro<g ref="char:EOLhyphen"/>feſſors, the Lord God have a tenderneſs toward his own ſeed in you which lieth groaning for deliverance in many of you, as he had over <hi>Jeruſalem</hi> in times paſt, therefore in the fear of the Lord that you turn from the evil of your wayes and turn to Chriſt the light in your own Conſciences, which reproves for every ſecret thought, and every ſecret motion that comes from the corrupt mind; now all that will be heirs of Gods Kingdom muſt feel ſomething break forth in them which have been captivated by the enemy of the Souls Peace; now you who are in the firſt Nature, and knoweth not the ſecond Birth which changeth that Nature, you cannot be partakers of the Myſtery of Gods Kingdom; for the Kingdom of God ſtands
+<pb n="4" facs="tcp:37684:3"/>not in outward Obſervations, as <hi>Lo here,</hi> or <hi>lo there,</hi> but the Kingdom of our God is within; Now you who are gazing out into the viſible things without, you loſe the ſight of the in<g ref="char:EOLhyphen"/>viſible; you who are talking of the Prophets words, and the Apoſtles words, and out of that life they lived in that gave forth the Scriptures in them, that will ſtand you in no ſtead when the Lord ſhall come to require his own amongſt you, and to ſeparate the Sheep from the Goats; now you are to know that which makes the ſeparation, that ſeparates the good thoughts from the bad, and the good words from the bad, you are to come to Gods witneſſe in your ſelves; Now you out<g ref="char:EOLhyphen"/>ſide Profeſſors who are looking for ſomething without you to ſave you, and imagining of a God, afar off from you in your vain minds, and will not turn to the light in your own parti<g ref="char:EOLhyphen"/>culars which makes manifeſt ſin and evil, therefore ye are ig<g ref="char:EOLhyphen"/>norantly worſhipping the Lord, putting for the Doctrine of Chriſt the Traditions of men, and ſtriving about Mint, Annis, and Commin, and neglecting the weightier matters which is to love Mercy, to do juſtly, and to walk humbly with the Lord; now all are to come to the light, and by it to try what you are a doing, whether you are a ſerving of God or not ſerving of him, bring your deeds to the light, Profeſſors, and ſee whether the Lord will be pleaſed with your out-ſide-ſer<g ref="char:EOLhyphen"/>vices; No, no, the Lord loveth Truth in the inward parts, it is not lip-ſervice that will pleaſe the Lord, it is the heart that the Lord requireth of you; See now you vain Profeſſors how far you are from giving God your heart when you are in the perſecuting Nature which perſecutes the Servants of the Lord under a pretence of doing God ſervice, whoſe example do you follow, do you not follow the Jewes who were Profeſſors as well as you, and had the Law and the Writings of the Pro<g ref="char:EOLhyphen"/>phets, and the outward Obſervations, their now Moons and their Sabbath-Dayes, and their Faſt-Dayes, and were they not looking for Chriſt without them as you do, and did not they put the Lord to death, and perſecute his Servants, and hale them out of their Synagogues, and had them before Ma<g ref="char:EOLhyphen"/>giſtrates as you do now? was this the practice of the Servants of the Lord? when they were reviled they reviled not again; know you not that Chriſt could pray to his Father for ten Le<g ref="char:EOLhyphen"/>gions
+<pb n="5" facs="tcp:37684:3"/>of Angels to withſtand that power in them, but then their hypocriſie could not be ſo clearly ſeen, neither could the ſcrip<g ref="char:EOLhyphen"/>tures be fulfilled; now theſe things muſt come to paſſe, but wo be to you that do them, you are known by your Fruits what Trees you are, <hi>a corrupt tree cannot bring forth good fruit;</hi> the Lord is come and coming to cry all Nations of them that ſerve him and them that ſerve him not, and to caſt dung upon the faces of all the proud and lofty ones of the Earth, for the Lord ſaith in the Scriptures of Truth, That <hi>he will look upon all the lofty and abaſe them, for the day of the Lord is coming that will burn as an Oven, and all the proud, and all that work wickedneſs ſhall be as ſtubble before him, when the Lord ſhall come and terribly ſhake the Earth, then that which is not of his own planting ſhall be rooted up:</hi> Now know all you ſcoffers and mockers that are mocking at the Truth and calling <hi>Quakers</hi> ſcornfully in your vain mind, that ſo exceed<g ref="char:EOLhyphen"/>ing terrible was the ſight that <hi>Moſes</hi> the Servant of the Lord ſaw, that he exceedingly feared and Quaked; now you who are in the fallen eſtate, and have not ſeen the righteous Judg<g ref="char:EOLhyphen"/>ments of the Lord to ſhake terribly the earthly Foundations, yea, and your heavenly too; it is evident that you have not ſeen the light which makes manifeſt the darkneſs; now therefore come to the light that make manifeſt ſin &amp; evil, you that know not the Lord in his righteous Judgments, all that which you have gotten in the imaginations, imagining of ſomething like God, how vain are you taling of God with your lips, and wor<g ref="char:EOLhyphen"/>ſhipping of him with your out-ſide, and know him not to be your guide; Therefore come out of your ſins you vain Pro<g ref="char:EOLhyphen"/>feſſors, do you think that God will be pleaſed with your hypo<g ref="char:EOLhyphen"/>critical ſervices; Why do you not ſearch the Scriptures as the noble <hi>Bareans</hi> did, who the Apoſtle called Noble, for that they ſearched the Scriptures to know whether that which the Ser<g ref="char:EOLhyphen"/>vants of the Lord ſpake forth was according to the Scriptures yea or no; but the god of this world hath ſo blinded your eyes that you cannot behold the true light; Now you Profeſ<g ref="char:EOLhyphen"/>ſors what Change is wrought in you, do you not run wiht the multitude to do evil, do you not call them forth to help you to carry the ſervants of the Lord where you will in your blind and ignorant zeal, will not the Lord be a<g ref="char:EOLhyphen"/>venged of ſuch Profeſſors as theſe? Yes ſurely, this was not the Practices of the Lords People; but you ſay,
+<pb n="6" facs="tcp:37684:4"/>you ſtand for Gods Cauſe when you perſecute them that live in Gods fear: Oh! you blind leaders of the blind, know you not that the Lord will have none of your blinde-ſervices, the Lord have no need of your Carnal wea<g ref="char:EOLhyphen"/>pons to fight in his cauſe, nor your carnal profeſſion neither, for the Lord hath a Sword to cut down, and a Fire to burn up all that ſtubble that you in your imaginations are building; Therefore be warned all you profeſſors of <hi>England</hi> that are worſhiping of a God afar off, ſomewhere without you, but where you cannot tell, that you turn to Gods witneſs in your ſelves, that will let you ſee who you are following, if you will be obedient to it, you muſt take up that great ordinance wch you are ſtrangers to, even the daily Croſs and ſelf-denial, the Croſs of Chriſt Jeſus and follow him; Now that which croſſeth thy vain mind, and teacheth thee to deny thy ſelf, to that you muſt be obedient, now the Croſs of Chriſt to the Worldly wiſe is fooliſhneſs, but to them that believe it is the Power of God to the ſaving of their ſouls; In the fear of the Lord God am I moved to declare unto you, who ſay, that we tell you of a Light with<g ref="char:EOLhyphen"/>in you, but you ſay, you hope to be ſaved by Chriſt that was crucified at <hi>Jeruſalem</hi> without you, which truth we own, and verily believe that Chriſt Jeſus was crucified without the gates at <hi>Jeruſalem,</hi> and that he ſuffered under <hi>Pontius Pilate,</hi> and that he was dead and buried, and roſe again the third day from the dead, and that he likewiſe ſuffered in <hi>Sodom</hi> and <hi>Aegypt,</hi> but what is this to you that hath but heard of his fame, and have neither heard his voice nor ſeen his ſhape? Now that which is to be known of Chriſt is manifeſted within; now you that have put the Lord to death, and ſlain the juſt principle of God in your ſelves by reaſon of ſin and iniquity, this Teſtimony do I bear for the Lord, that ſorrow and great lamentation muſt come upon the head of the tranſgreſſor before the ranſomed of the Lord can be witneſſed, you muſt all come to feel that crucified in you that have crucified the juſt, before you can have fellowſhip with the Father or with the Son Jeſus Chriſt, you muſt feel the Lord to ſtrike the Rock, that a cleanſing you may know in your ſelves, before you can be refreſhed with the pure refreſhments that cometh from the Fountain of Living Waters; I ſay in the fear of the Lord that you muſt come to
+<pb n="7" facs="tcp:37684:4"/>know a cleanſing in your own particulars, that that may be cleanſed out which have been gathered in the corrupt mind; You who live in ſin and iniquity, and have not felt the mo<g ref="char:EOLhyphen"/>vings of Gods Spirit to cleanſe, you have corrupted your ways, and the Lord can take no delight in any thing which is not of his own begetting; Therefore all turn to that which begets to Gods, the Light Chriſt, and know that to be a Light to your feet, and a Lanthorn to your paths; now that which ſets free from ſin is Light, God ſent his Son into the World, that who<g ref="char:EOLhyphen"/>ſoever believed in him ſhould not periſh but ſhould have the Light of Life; now Chriſt Gods gift ſets free from the bondage of corruption; Now that the Law could not do, by reaſon of the weakneſs and unprofitableneſſe thereof, now the Lord ſent his Son in the likeneſſe of ſinfull fleſh, and for ſin condemning ſin in the fleſh, that the righteouſneſs of the Law might be ful<g ref="char:EOLhyphen"/>filled in them that believe, now all to feel the tender Plant that is of the Lords own planting to grow and bud forth in the earth, that pure tender plant that lyeth low in you, like a little grain of Muſtard-ſeed under earth, the Plant ly<g ref="char:EOLhyphen"/>eth low in the earth, the ground muſt be opened and digged about it, and that taken away which do hinder the growth of it before it can fructifie and ſpring forth, you muſt come to feel Gods tender Plant that he hath planted in you to ſpring, that which ſtands a witneſſe in you againſt all your un<g ref="char:EOLhyphen"/>godly wayes, this muſt you all come to feel and know in your own particulars; Now in love to the Seed am I conſtrained to declare that which my eyes have ſeen, and my ears heard, and my hands handled, and I have taſted of the good word of God in meaſure according to the manifeſtation of his powerful working in me.</p>
+            <p>Now you who are looking to the Mountains to cover you, and the Halls to overſhadow you, all in vain, for the Lord is making bare his own arm, and he is riding Triumphantly to turn, and overturn, overturn, till he come whoſe right it is to reign, and he will give it him.</p>
+            <p>Now all you Rulers and Governours of the earth, who are Ruling and Governing in your wills, the word of the Lord God is to you, that you run not before the Lord in your own wills, but you are to ſtand ſtill and wait to be guided by Gods
+<pb n="8" facs="tcp:37684:5"/>pure witneſſe in your own particulars, and to know that it is not in man to direct his way, for it is not in him that willeth nor in him that runneth, but in God who ſheweth mercy, but you that are running before the Lord, and wait not to be guided by Gods pure Principle in your ſelves, you condemn the juſt and let the guilty go free; Therefore a lamentation is to be for you, as it was for <hi>Jeruſalem</hi> in times paſt, that had they known in that day the things that belong to their peace, they would not have put the Lord to death; Therefore are you warned you that rule in your wills, that you turn from the evil of your doings, and be obedient to the Light Chriſt Jeſus, before the day of Gods anger overtake you, and before the day of Gods viſitation paſs away, and then many of you may ſeek the bleſſing with tears, and may not find it, while you are worſhiping of God in the periſhing things the bleſſing is not felt; now none can know God the Father but as the Light doth make him manifeſt, that that makes the Truth manifeſt is that that reproves for ſin and iniquity; now you being ignorant of the way of the Lord, and not learned by his pure Spirit, the Book is ſealed to you; Now the Lord com<g ref="char:EOLhyphen"/>plains of ſuch Rulers and Profeſſors, therefore ſaith the Lord in <hi>Iſa.</hi> 29. <hi>v.</hi> 13. <hi>Foraſmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear towards me is taught by the pre<g ref="char:EOLhyphen"/>cepts of men;</hi> Therefore behold you Rulers and profeſſors, the Lord will proceed to do a marvelous work amongſt this people, and a wonder; for the wiſdom of their wiſe men ſhall periſh, and the underſtanding of their prudent men ſhall be hid; Wo be to them that ſeek deep to hide their Councel from the Lord; therefore all come to the light, and wait at the Pool that you ſtep in and be cleanſed.</p>
+            <p>
+               <hi>Given forth by one who have taſted of the love of the Lord, through the Spirit of burning, and who deſire to be made manifeſt to your Conſciences in the ſight of God,</hi>
+            </p>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
